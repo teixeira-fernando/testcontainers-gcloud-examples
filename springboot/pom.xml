@@ -23,7 +23,7 @@
     <java.version>11</java.version>
     <spring-cloud.version>Hoxton.SR9</spring-cloud.version>
     <spring-boot.version>2.3.3.RELEASE</spring-boot.version>
-    <testcontainers.version>1.15.0</testcontainers.version>
+    <testcontainers.version>1.20.6</testcontainers.version>
     <awaitility.version>4.0.3</awaitility.version>
     <mockito.version>3.6.0</mockito.version>
   </properties>
